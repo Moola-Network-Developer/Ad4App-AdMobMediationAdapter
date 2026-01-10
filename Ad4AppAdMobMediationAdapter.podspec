@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Ad4AppAdMobMediationAdapter'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'AdMob Mediation Adapter binary distribution'
 
   s.description      = <<-DESC
@@ -26,4 +26,6 @@ Pod::Spec.new do |s|
 
   # Required for binary-only pods
   s.requires_arc = true
+  s.static_framework = true
+
 end
