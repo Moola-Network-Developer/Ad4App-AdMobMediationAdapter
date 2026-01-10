@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Ad4AppAdMobMediationAdapter'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'AdMob Mediation Adapter binary distribution'
 
   s.description      = <<-DESC

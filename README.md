@@ -38,8 +38,16 @@ It supports both **Swift Package Manager** and **CocoaPods**.
 
 1. Add the following line to your `Podfile`:
     ```ruby
-    pod 'MoolaNetworkAdMobMediationAdapter', '~> 1.0'
+    pod 'Ad4AppAdMobMediationAdapter', '~> 1.0'
     ```
+
+    or
+
+    ```ruby
+    pod 'Ad4AppAdMobMediationAdapter'
+    ```
+
+
 2. Then run:
     ```ruby
     pod install
